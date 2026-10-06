@@ -1,0 +1,5 @@
+The four HTML pages were separated directly from the uploaded Word document.
+The Word document references style.css, login.css, sign-up.css, support.css,
+script.js and image assets, but their original source/content was not included.
+Functional companion CSS/JS and placeholder assets were added so the separated
+project is runnable. Replace placeholders with your original files if available.
